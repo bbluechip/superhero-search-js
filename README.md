@@ -19,7 +19,7 @@
 
 👉 CSS display, variable, webkits, margin, padding, bg-color, grids etc.
 
-👉 Javascript dom-manipulaitons, arrow functions, innerHTML, queryselectors, foreach etc.
+👉 Javascript dom-manipulations, arrow functions, innerHTML, queryselectors, foreach etc.
 
 👉 Github & Git commands (push, pull, commit, add etc.)
 
